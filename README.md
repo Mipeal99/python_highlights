@@ -1,4 +1,5 @@
 TO DO, MAYBE: translate most of the comments in the programs to English
+
 Here is the gist of what these programs are:
 
 -CAHA_reduction_script.ipynb: this is an astronomical data reduction project. It takes calibration data and makes bias, dark and flats and applies it to science data of NGC2392, taken from the CAFOS telescope in Calar Alto.
